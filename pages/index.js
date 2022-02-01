@@ -8,7 +8,7 @@ import FAQ from "../components/FAQ";
 
 export default function Home() {
   return (
-    <div className="min-h-screen w-full bg-primary">
+    <div className="min-h-screen w-full bg-black">
       <Header />
       <Hero />
     </div>
